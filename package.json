@@ -14,7 +14,10 @@
     "axios": "^1.7.9",
     "react": "19.0.0",
     "react-native": "0.78.0",
+<<<<<<< HEAD
     "react-native-modal": "^13.0.1",
+=======
+>>>>>>> f1ad9196e2bf7a5254f3fa88812400f61eab1ae8
     "react-native-vector-icons": "^10.2.0"
   },
   "devDependencies": {
